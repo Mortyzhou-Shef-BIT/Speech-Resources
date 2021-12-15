@@ -104,7 +104,6 @@
 - Steve Renals
 - Peter Bell
 - Hao Tang
-- 
 #### 麻省理工大学
 - James Glass
 
@@ -141,11 +140,11 @@
 
 ## 期刊
 
-- **TASLP: ** [IEEE/ACM Transactions on Audio Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing) [SCI Q1]
+- TASLP: [IEEE/ACM Transactions on Audio Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing) [SCI Q1]
 
 - Speech Communication
 
-- **JSHLR:** Journal of Speech, Language, and Hearing Research
+- JSHLR: Journal of Speech, Language, and Hearing Research
 
 - Computer Speech and Language
 
@@ -155,7 +154,7 @@
 
 - Signal Processing
 
-- **JASA:** Journal of the Acoustical Society of America
+- JASA: Journal of the Acoustical Society of America
 
 ## 会议
 
